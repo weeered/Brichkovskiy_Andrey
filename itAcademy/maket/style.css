@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+div.header {
+    border: 1px solid;
+}
+div.conteiner {
+    width: 1280px; margin: 0 auto;
+    border: 1px solid red;
+    margin-top: 42px;
+}
+ul.hr{
+    margin: 0 0 0 75px;
+    
+   
+}
+ul.hr li{
+    font-size: 13px;
+    display: inline-block;
+    margin: 17px;
+    
+    
+}
+span
+button.btn {
+    padding: 5px 0px;
+    height: 32px;
+    width: 130px;
+    border-radius: 95px;
+    margin: 8px 8px;
+    background-color: rgba(255, 255,255, 0,26);
+    border: none;
+}
+h1.h1{
+    font-size: 70px;
+}
+p.p1{
+    font-size: 20px;
+}
