@@ -40,3 +40,19 @@ h1.h1{
 p.p1{
     font-size: 20px;
 }
+button.btn1{
+    border-radius: 105px;
+    width: 123px;
+    height: 37px;
+    margin: 34px 0px;
+    background-color: blue;
+    color: rgba(255, 255, 255, 1);
+    border: none;
+
+}
+p.p2{
+    font-size: 16px;
+    height: 16px;
+    margin-top: 322px;
+    text-align: center;
+}
