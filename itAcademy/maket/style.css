@@ -6,11 +6,15 @@
 
 div.header {
     border: 1px solid;
+    background-image: url('../maket/img/img\ 1.png');
+    
+    background-repeat: no-repeat;
+    background-position: top right;
 }
+    
 div.conteiner {
-    width: 1280px; margin: 0 auto;
+    width: 1280px; margin: 0px auto;
     border: 1px solid red;
-    margin-top: 42px;
 }
 ul.hr{
     margin: 0 0 0 75px;
@@ -55,4 +59,81 @@ p.p2{
     height: 16px;
     margin-top: 322px;
     text-align: center;
+}
+div.sound{
+    width: 1280px;
+    margin: 0px auto;
+    border: 1px solid green;
+    text-align: center;
+}
+p.sounds{
+    margin-top: 127px;
+    font-size: 20px;
+}
+h4.sounds{
+    font-size: 52px;
+}
+p.sounds1{
+    font-size: 18px;
+}
+button.sounds{
+    margin-top: 34px;
+    font-size: 12px;
+    color: white;
+    border: none;
+    border-radius: 105px;
+    width: 150px;
+    height: 35px;
+    background-color: blue;
+}
+div.plaeyr{
+    float:none;
+}
+img.player{
+    margin-top: 50px;
+}
+div.plugins{
+    width: 1280px;
+    margin: 0px auto;
+    border: 1px solid chocolate;
+    background-image: url('../maket/img/Rectangle\ 11.png');
+}
+img.plugins{
+    margin-top: 0px;
+    float: left
+}
+p.plugins{
+    font-size: 16px;
+    margin-top: 130px;
+    margin-left: 231px;
+}
+span.plugins{
+    color: blue;
+    font-size: 48px;
+}
+p.plugins1{
+    font-size: 48px;
+}
+span.plugins1{
+    font-size: 18px;
+    margin-top: 18px;
+    margin-left: 231px;
+}
+button.plugins{
+    margin-top: 50px;
+    margin-bottom: 165px;
+    margin-left: 231px;
+    border: none;
+    border-radius: 105px;
+    background-color: blue;
+    width: 133px;
+    height: 37px;
+    color: white;
+}
+div.plugins1{
+    vertical-align: middle;
+    padding-left: 231px;
+}
+br.plugins1{
+    
 }
