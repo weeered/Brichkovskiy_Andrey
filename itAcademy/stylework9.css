@@ -1,0 +1,39 @@
+body>div ul li a{
+    color: red;
+}
+body>div ul li span a{
+    color: green;
+}
+body>div ul li em a{
+    color: blue;
+}
+body>div p em a{
+    color: yellow;
+}
+body>div span em a{
+    color: black;
+}
+body>ul li a{
+    color: orange;
+}
+body>ul li span a{
+    color: rosybrown;
+}
+body>ul li em a{
+    color: violet;
+}
+body>ul li p em a{
+    color: aqua;
+}
+body>ul li div p a{
+    color: white;
+}
+body>ul li div ul li a{
+    color: indigo;
+}
+body>ul li div ul li em a{
+    color: chocolate;
+}
+body>ul li div ul li span a{
+    color: brown;
+}

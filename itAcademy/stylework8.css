@@ -1,0 +1,27 @@
+p.name{
+    font-size: 36px;
+    font-weight: bold;
+}
+p.birthday{
+    color: green;
+}
+p.champion{
+    color: red;
+    font-weight: bold;
+}
+p.info{
+    color: blue;
+}
+p.text1{
+    color: blue;
+    font-style: italic;
+}
+p.text2{
+    color: blue;
+    font-style: italic;
+}
+p.text3{
+    color: blue;
+    font-style: italic;
+    margin-bottom: 30px;
+}
