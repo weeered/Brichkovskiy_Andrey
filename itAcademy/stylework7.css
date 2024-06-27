@@ -1,0 +1,10 @@
+@media all and (max_width: 1400px) (
+    .header{
+    width: 250px;
+    height: 100px;
+    
+}
+)
+.content{
+    width: 250px;
+}
