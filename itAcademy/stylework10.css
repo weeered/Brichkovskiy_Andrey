@@ -1,0 +1,19 @@
+h1{
+    margin-bottom: 1px;
+}
+h4{
+    font-size: 20px;
+    font-style: italic;
+    color: gray;
+    margin-top: 2px;
+}
+span{
+    color: red;
+}
+div.table1{
+    border: solid 1px gray;
+    width: 300px;
+}
+div.text1{
+    margin-top: 20px;
+}    
