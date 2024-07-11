@@ -1,0 +1,22 @@
+div.header {
+    background-color: aqua;
+    height: 100px;
+}
+div.content {
+    display: flex;
+    justify-content: flex-start;
+    background-color: purple;
+    height: 500px;
+}
+div.left {
+    width: 200px;
+    background-color: green;
+}
+div.right {
+    width: 200px;
+    background-color: green;
+}
+div.bottom {
+    background-color: aqua;
+    height: 100px;
+}

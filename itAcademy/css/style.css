@@ -1,0 +1,25 @@
+div.header {
+  background-color: aqua;
+  height: 100px; }
+
+div.content {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+      -ms-flex-pack: start;
+          justify-content: flex-start;
+  background-color: purple;
+  height: 500px; }
+
+div.left {
+  width: 200px;
+  background-color: green; }
+
+div.right {
+  width: 200px;
+  background-color: green; }
+
+div.bottom {
+  background-color: aqua;
+  height: 100px; }
