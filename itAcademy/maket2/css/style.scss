@@ -1,0 +1,82 @@
+div.header{
+    width: 1440px;
+    background-image: url('img/Frame.png');
+}
+p.headerText{
+    text-align: center;
+    color: white;
+    font-size: 16px;
+    font-family: Roboto;
+    padding-top: 11px;
+    padding-bottom: 11px;
+}
+div.text{
+    background-color: black;
+    height: 46px;
+}
+div.container{
+    width: 1110px;
+    margin: 0 auto;
+    position: relative;
+}
+div.header-wrap{
+    display: flex;
+    justify-content: space-between;
+    height: 87px;
+}
+ul.products{
+    margin-top: 30px;
+    margin-bottom: 33px;
+}
+ul.products li{
+    display: inline;
+}
+li.product{
+    padding-left: 16px;
+    padding-right: 42px;
+}
+li.who{
+    padding-right: 42px;
+}
+li.concept{
+    padding-right: 26px;
+}
+img.logo{
+    height: 161px;
+    width: 121px;
+    margin-top: 31px;
+}
+ul.recipes{
+    margin-top: 30px;
+    margin-bottom: 33px;
+}
+ul.recipes li{
+    display: inline;
+}
+li.recipes{
+    padding-left: 16px;
+    padding-right: 42px;
+}
+li.log{
+    padding-right: 42px;
+}
+li.cart{
+    padding-right: 26px;
+}
+p.taste{
+    font-size: 85px;
+    font-family: Roboto;
+    text-align: center;
+    margin-top: 121px;
+    margin-left: 105px;
+}
+p.find{
+    font-size: 85px;
+    font-family: Roboto;
+    text-align: center;
+    margin-left: 105px;
+}
+img.circle{
+    margin-left: 554.5px;
+    margin-top: 421px;
+}
